@@ -7,8 +7,6 @@ import com.rabbitmq.client.Channel;
 import java.io.IOException;
 import java.util.concurrent.TimeoutException;
 
-
-
 public class Send {
 	
 	private static final String QUEUE_NAME = "hello";
